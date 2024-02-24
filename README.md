@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PineFaceXD
+- 👀 I’m interested in increasing my knowledge in computer science.
+- 🌱 I’m currently learning as a year 12 student in high school.
